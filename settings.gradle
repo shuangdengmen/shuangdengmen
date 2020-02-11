@@ -1,0 +1,2 @@
+include ':takeout95', ':alipayDemo', ':gddemo'
+rootProject.name='MyTakeoutProject'

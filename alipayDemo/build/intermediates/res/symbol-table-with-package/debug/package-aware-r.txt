@@ -1,0 +1,11 @@
+com.alipay.sdk.pay.demo
+drawable msp_demo_title
+drawable msp_demo_title_bg
+drawable msp_icon
+id authV2
+id fragment
+id h5pay
+id payV2
+layout pay_external
+layout pay_main
+string app_name
